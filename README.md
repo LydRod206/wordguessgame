@@ -1,2 +1,2 @@
 # wordguessgame
-module4challenge
+class mini project 
